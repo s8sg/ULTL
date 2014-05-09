@@ -1,10 +1,8 @@
-/* < Edit date: 22/02/14 > */
-
 /*********************************************************
  * This open source verison of ULTL. 
  * Product Date: 01-01-2014.
  * Version: 2.2467.
- * Developed By: Swarvanu Sengupta(NTIL)
+ * Developed By: NTIL
  *
  * File Info: File holds the interface and structure
  *********************************************************/
